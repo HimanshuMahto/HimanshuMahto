@@ -41,9 +41,9 @@ fields_of_interests:
     "DevOps",
   ]
   
-currently_learning: ["Machine Learning"]
+currently_learning: ["Machine Learning, Web3"]
 Per Year Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Badminton", "Shayari", "Sketching"]
+hobbies: ["Gaming", "Cinema", "Badminton", "Shayari", "Sketching","Anime"]
 ```
   
 ---  
