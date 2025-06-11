@@ -68,10 +68,11 @@ hobbies: ["Gaming", "Cinema", "Badminton", "Shayari", "Sketching","Anime"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuMahto&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMahto&theme=noctis_minimus&layout=compact" />
 </a>
+<p></p>
 
-<h1 align="center" style=font>
-  ありがとう
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ありがとう!&height=100&section=header" />
+</p>
 
 <!-- ![Snake animation](https://github.com/HimanshuMahto/HimanshuMahto/blob/output/github-contribution-grid-snake.svg)
   
