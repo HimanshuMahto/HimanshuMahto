@@ -31,14 +31,14 @@ Name: Himanshu Kumar Mahto
 located_in: Uttar Pradesh, India
 education:
   [
-    " Pursing Bachelor's in Technology in CSE",
+    " Bachelor's in Technology in CSE",
   ]
 
 fields_of_interests:
   [
     "Android Development",
     "Machine Learning",
-    "DevOps",
+    "Front-End Development",
   ]
   
 currently_learning: ["Machine Learning, Web3"]
@@ -68,6 +68,10 @@ hobbies: ["Gaming", "Cinema", "Badminton", "Shayari", "Sketching","Anime"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuMahto&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMahto&theme=noctis_minimus&layout=compact" />
 </a>
+
+<h1 align="center" style=font>
+  ありがとう
+</h1>
 
 <!-- ![Snake animation](https://github.com/HimanshuMahto/HimanshuMahto/blob/output/github-contribution-grid-snake.svg)
   
