@@ -3,183 +3,148 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer;Building+Scalable+Developer+Platforms;React+%7C+Angular+%7C+TypeScript;Turning+Ideas+Into+High+Performance+Products"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Developer+Platforms+%F0%9F%9B%A0%EF%B8%8F;React+%7C+Angular+%7C+TypeScript;Turning+Ideas+Into+High+Performance+Products+%E2%9A%A1"/>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/himanshu-kumar-mahto-a03226218/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/himanshu-kumar-mahto-a03226218/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HimanshuMahto">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:himanshumahto0102@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://github.com/HimanshuMahto">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:himanshumahto0102@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HimanshuMahto&label=Profile+Views&color=00FF9C&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
-Name: Himanshu Kumar Mahto
-Role: Software Engineer (Frontend)
-Company: Facets.cloud
-Location: India
+Name    : Himanshu Kumar Mahto
+Role    : Software Engineer — Frontend
+Company : Facets.cloud
+Location: India 🇮🇳
 
 Education:
-  - B.Tech in Computer Science (CGPA: 9.1)
+  - B.Tech in Computer Science
 
 Primary Stack:
-  - React
-  - Angular
-  - TypeScript
-  - REST APIs
+  - React · Angular · TypeScript · REST APIs
 
 Engineering Focus:
-  - Frontend Architecture
-  - Scalable UI Systems
+  - Frontend Architecture & Scalable UI Systems
   - Performance Optimization
-  - Developer Platforms
+  - Developer Tooling & Infrastructure Platforms
 ```
 
-💡 I’m a **Frontend Software Engineer at Facets.cloud** building developer tooling and infrastructure platforms using **React, Angular, and TypeScript**.
-
-My work focuses on **scalable UI systems, performance optimization, and developer experience.**
+💡 I'm a **Frontend Software Engineer at Facets.cloud** building developer tooling and infrastructure platforms.  
+My work is centred on **scalable UI systems, performance optimization, and great developer experience.**
 
 ---
 
-# ⚡ Coding Mode
+## 💼 Experience
+
+### 🏢 Software Engineer — Facets.cloud &nbsp;`Oct 2025 – Present`
+
+- Led migration of **10+ screens from Angular → React**, owning ~50% of components
+- Built **Module Registry UI** managing **100+ Terraform modules**
+- Created **7 reusable React components** reducing duplication by **20%+**
+- Implemented a **release tagging system** across platform modules
+- Reduced page load time **10–15%** via caching, pagination & lazy loading
+- Instrumented **Mixpanel analytics across 15+ user flows**
+
+### 🧑‍💻 Software Intern → Converted Full-Time &nbsp;`Jan 2025 – Sep 2025`
+
+Delivered 6+ Angular features, centralized state management cutting redundant API calls by 30%, and built bulk workflows managing 100+ infrastructure resources.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Backend & APIs**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+**Tools**
+
+![Git](https://skillicons.dev/icons?i=git)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+## 🏆 Achievements
+
+| 🏅 | Event |
+|---|---|
+| 🥇 1st Place | XR Creator National Hackathon |
+| 🥇 1st Place | Hashhacks Hackathon — Delhi University |
+| 🏆 Top 50 Teams | HackSquad Open Source Hackathon |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://media.giphy.com/media/FeVg8ViEczcxG/giphy.gif" width="420"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HimanshuMahto&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMahto&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-> “Talent is something you make bloom. Instinct is something you polish.”
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HimanshuMahto&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuMahto&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuMahto&theme=tokyonight" alt="Profile Summary"/>
+</p>
+
+---
+
+## ⚡ Beyond the Code
+
+```
+🏸  Competitive badminton player
+🎬  Cinema & Anime enthusiast
+✍️  Poetry & Song writer
+🎨  Sketching & design
+```
+
+> *"Talent is something you make bloom. Instinct is something you polish."*  
 > — Shoyo Hinata
 
 ---
 
-# 💼 Professional Experience
-
-### 🏢 Software Engineer — Facets.cloud
-
-Oct 2025 – Present
-
-* Led migration of **10+ screens from Angular → React**, owning ~50% of components.
-* Built **Module Registry UI** managing **100+ Terraform modules**.
-* Created **7 reusable React components** reducing duplication by **20%+**.
-* Implemented **release tagging system** across platform modules.
-* Reduced page load time **10–15%** via caching, pagination, lazy loading.
-* Instrumented **Mixpanel analytics across 15+ user flows**.
-
-### 🧑‍💻 Software Intern — Facets.cloud
-
-Jan 2025 – Sep 2025
-
-* Delivered **6+ Angular features** including resource management tools.
-* Centralized state management eliminating **30% redundant API calls**.
-* Built bulk workflows managing **100+ infrastructure resources**.
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,python,java,cpp,sql"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,html,css"/>
-</p>
-
-### Backend / APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🧠 Multiple Disease Predictor
-
-* ResNet101V2 deep learning model
-* **87.5% validation accuracy**
-* Integrated with Android app via **Flask REST API**
-
-### 💰 Spendify — Expense Tracker
-
-* Android application with **Java & Android Studio**
-* Interactive charts using **MPAndroidChart**
-* Persistent storage using **Room Database**
-
----
-
-# 🏆 Achievements
-
-🥇 XR Creator National Hackathon — 1st Place
-🥇 Hashhacks Hackathon (Delhi University) — 1st Place
-🏆 HackSquad Open Source Hackathon — Top 50 Teams
-
----
-
-# 📊 GitHub Stats
-
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HimanshuMahto&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMahto&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuMahto&theme=tokyo-night"/>
-</p>
-
----
-
-# 🧬 3D Contribution Graph
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuMahto&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/HimanshuMahto/HimanshuMahto/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# ⚡ Fun Facts
-
-* 🏸 Competitive badminton player
-* 🎬 Cinema & Anime enthusiast
-* ✍️ Love writing **shayari**
-* 🎨 Sketching & design
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>
