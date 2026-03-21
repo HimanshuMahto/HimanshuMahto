@@ -1,81 +1,185 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello_World!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Himanshu%20Kumar%20Mahto&fontSize=40&fontAlignY=35&desc=Frontend%20Software%20Engineer%20%7C%20React%20%7C%20Angular%20%7C%20TypeScript&descAlignY=55"/>
 </p>
 
-<h1 align="center" style=font>
-  Let's Connect here!
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer;Building+Scalable+Developer+Platforms;React+%7C+Angular+%7C+TypeScript;Turning+Ideas+Into+High+Performance+Products"/>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/himanshu-kumar-mahto-a03226218/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/HimanshMahto">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/_shoyo_.10/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
 
-<p align="center">
-  <img src= "https://media.giphy.com/media/FeVg8ViEczcxG/giphy.gif">
+<a href="https://github.com/HimanshuMahto">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:himanshumahto0102@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+# 👨‍💻 About Me
 
 ```yaml
 Name: Himanshu Kumar Mahto
-located_in: Uttar Pradesh, India
-education:
-  [
-    " Bachelor's in Technology in CSE",
-  ]
+Role: Software Engineer (Frontend)
+Company: Facets.cloud
+Location: India
 
-fields_of_interests:
-  [
-    "Android Development",
-    "Machine Learning",
-    "Front-End Development",
-  ]
-  
-currently_learning: ["Machine Learning, Web3"]
-Per Year Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Badminton", "Shayari", "Sketching","Anime"]
+Education:
+  - B.Tech in Computer Science (CGPA: 9.1)
+
+Primary Stack:
+  - React
+  - Angular
+  - TypeScript
+  - REST APIs
+
+Engineering Focus:
+  - Frontend Architecture
+  - Scalable UI Systems
+  - Performance Optimization
+  - Developer Platforms
 ```
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="45" height="45"/>
+
+💡 I’m a **Frontend Software Engineer at Facets.cloud** building developer tooling and infrastructure platforms using **React, Angular, and TypeScript**.
+
+My work focuses on **scalable UI systems, performance optimization, and developer experience.**
+
+---
+
+# ⚡ Coding Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/FeVg8ViEczcxG/giphy.gif" width="420"/>
+</p>
+
+> “Talent is something you make bloom. Instinct is something you polish.”
+> — Shoyo Hinata
+
+---
+
+# 💼 Professional Experience
+
+### 🏢 Software Engineer — Facets.cloud
+
+Oct 2025 – Present
+
+* Led migration of **10+ screens from Angular → React**, owning ~50% of components.
+* Built **Module Registry UI** managing **100+ Terraform modules**.
+* Created **7 reusable React components** reducing duplication by **20%+**.
+* Implemented **release tagging system** across platform modules.
+* Reduced page load time **10–15%** via caching, pagination, lazy loading.
+* Instrumented **Mixpanel analytics across 15+ user flows**.
+
+### 🧑‍💻 Software Intern — Facets.cloud
+
+Jan 2025 – Sep 2025
+
+* Delivered **6+ Angular features** including resource management tools.
+* Centralized state management eliminating **30% redundant API calls**.
+* Built bulk workflows managing **100+ infrastructure resources**.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,python,java,cpp,sql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css"/>
+</p>
+
+### Backend / APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,postman"/>
 </p>
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/HimanshuMahto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuMahto&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMahto&theme=noctis_minimus&layout=compact" />
-</a>
-<p></p>
+# 🚀 Featured Projects
+
+### 🧠 Multiple Disease Predictor
+
+* ResNet101V2 deep learning model
+* **87.5% validation accuracy**
+* Integrated with Android app via **Flask REST API**
+
+### 💰 Spendify — Expense Tracker
+
+* Android application with **Java & Android Studio**
+* Interactive charts using **MPAndroidChart**
+* Persistent storage using **Room Database**
+
+---
+
+# 🏆 Achievements
+
+🥇 XR Creator National Hackathon — 1st Place
+🥇 Hashhacks Hackathon (Delhi University) — 1st Place
+🏆 HackSquad Open Source Hackathon — Top 50 Teams
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ありがとう!&height=100&section=header" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HimanshuMahto&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMahto&layout=compact&theme=tokyonight"/>
 </p>
 
-<!-- ![Snake animation](https://github.com/HimanshuMahto/HimanshuMahto/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> 
-</p> -->
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuMahto&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧬 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuMahto&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HimanshuMahto/HimanshuMahto/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+* 🏸 Competitive badminton player
+* 🎬 Cinema & Anime enthusiast
+* ✍️ Love writing **shayari**
+* 🎨 Sketching & design
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
