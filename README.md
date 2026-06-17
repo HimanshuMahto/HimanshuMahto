@@ -60,10 +60,6 @@ My work is centred on **scalable UI systems, performance optimization, and great
 - Reduced page load time **10–15%** via caching, pagination & lazy loading
 - Instrumented **Mixpanel analytics across 15+ user flows**
 
-### 🧑‍💻 Software Intern → Converted Full-Time &nbsp;`Jan 2025 – Sep 2025`
-
-Delivered 6+ Angular features, centralized state management cutting redundant API calls by 30%, and built bulk workflows managing 100+ infrastructure resources.
-
 ---
 
 ## 🛠 Tech Stack
