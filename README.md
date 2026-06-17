@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Himanshu%20Kumar%20Mahto&fontSize=40&fontAlignY=35&desc=Frontend%20Software%20Engineer%20%7C%20React%20%7C%20Angular%20%7C%20TypeScript&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Himanshu%20Kumar%20Mahto&fontSize=40&fontAlignY=35&desc=Software%20Engineer%20%7C%20React%20%7C%20Angular%20%7C%20SpringBoot%20%7C%20TypeScript&descAlignY=55"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer+%F0%9F%9A%80;Building+Scalable+Developer+Platforms+%F0%9F%9B%A0%EF%B8%8F;React+%7C+Angular+%7C+TypeScript;Turning+Ideas+Into+High+Performance+Products+%E2%9A%A1"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%9A%80;Building+Scalable+Developer+Platforms+%F0%9F%9B%A0%EF%B8%8F;React+%7C+Angular+%7C+SpringBoot+%7C+TypeScript;Turning+Ideas+Into+High+Performance+Products+%E2%9A%A1"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ```yaml
 Name    : Himanshu Kumar Mahto
-Role    : Software Engineer — Frontend
+Role    : Software Engineer
 Company : Facets.cloud
 Location: India 🇮🇳
 
@@ -36,7 +36,7 @@ Education:
   - B.Tech in Computer Science
 
 Primary Stack:
-  - React · Angular · TypeScript · REST APIs
+  - React · Angular · Springboot · TypeScript · REST APIs
 
 Engineering Focus:
   - Frontend Architecture & Scalable UI Systems
@@ -44,7 +44,7 @@ Engineering Focus:
   - Developer Tooling & Infrastructure Platforms
 ```
 
-💡 I'm a **Frontend Software Engineer at Facets.cloud** building developer tooling and infrastructure platforms.  
+💡 I'm a **Software Engineer at Facets.cloud** building developer tooling and infrastructure platforms.  
 My work is centred on **scalable UI systems, performance optimization, and great developer experience.**
 
 ---
