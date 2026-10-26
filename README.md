@@ -23,6 +23,7 @@ Software Developer at [Facets.cloud](https://facets.cloud), building the develop
 
 ### Projects
 
+- **[Claude-Companion](https://github.com/HimanshuMahto/claude-companion)**: A little ghost in your menu bar shows what Claude is up to: white with no sessions, blue when connected, a bouncing purple while working, orange with a badge when it needs your approval, and green when a task finishes
 - **[NimbusStore](https://github.com/HimanshuMahto/NimbusStore)**: Cloudinary-style image service with composable transforms and hash-deduplicated results
 - **[Ricochet](https://github.com/HimanshuMahto/Ricochet)**: Caching reverse proxy that serves repeat requests from memory
 - **[Preview Anything](https://github.com/HimanshuMahto/Preveiw-Anything)**: Zero-config CLI that detects and previews any JS project
